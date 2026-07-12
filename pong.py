@@ -180,6 +180,6 @@ while True:
 
 
 
-
+# it will update display
     pygame.display.flip()
     clock.tick(60)
